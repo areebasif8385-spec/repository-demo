@@ -1,4 +1,4 @@
 # repository-demo
 This is my first  Git Repositry.
 <br>
-Author - Areeb
+Author - Areeb Asif  
